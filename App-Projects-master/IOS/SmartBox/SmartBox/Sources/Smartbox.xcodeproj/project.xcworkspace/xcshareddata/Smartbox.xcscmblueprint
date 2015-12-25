@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8cc667f3-54a3-7040-9af7-e59141c03996++5198",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8cc667f3-54a3-7040-9af7-e59141c03996++5198" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8cc667f3-54a3-7040-9af7-e59141c03996++5198" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5A3B5499-2355-417C-8627-160E5080B7BC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8cc667f3-54a3-7040-9af7-e59141c03996++5198" : "SmartBox"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Smartbox",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Sources\/Smartbox.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.5.25:8443\/svn\/App-Projects",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8cc667f3-54a3-7040-9af7-e59141c03996++5198"
+    }
+  ]
+}
